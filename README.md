@@ -1,2 +1,3 @@
 # 8bitprefixadder
-Parallel 8-bit prefix Adder : LCD Course Project
+This repository contains the Test bench and Design code for a Parallel 8-bit Prefix Adder.
+
